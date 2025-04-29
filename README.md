@@ -3,7 +3,6 @@
 Further train string and array methods.
 
 2. Exercises
-   
   1.
   Make a method that takes a text string as a parameter. The text is assumed
   to be many sentences in one large paragraph. The method should split the
